@@ -1,3 +1,9 @@
+# Connect with me 
+LinkedIn: https://www.linkedin.com/in/raj-goyal-b9a683230/
+
+Mail: raajj.goyal@gmail.com
+
+
 # Image-Segmentation-for-self-driving-cars 
 The rapid development of self-driving car technology has highlighted 
 the critical need for accurate and efficient image segmentation 
